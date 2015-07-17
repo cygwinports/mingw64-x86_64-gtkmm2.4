@@ -4,7 +4,7 @@ inherit cross gtkmm
 
 NAME="mingw64-x86_64-gtkmm2.4"
 VERSION=2.24.4
-RELEASE=2
+RELEASE=3
 CATEGORY="Devel"
 SUMMARY="GTK+ C++ bindings for Win64 toolchain"
 DESCRIPTION="This package does NOT contain cygwin binaries.  Instead, it
